@@ -1,7 +1,7 @@
 # Monsters Rolodex Mini Project
 
-![Home Page](extra/monsters-home.jpg)
-![Alt text](extra/monsters-search.jpg)
+![Home Page](extra/monsters-home.JPG)
+![Alt text](extra/monsters-search.JPG)
 
 ## Available Scripts
 
